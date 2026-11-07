@@ -1,0 +1,16 @@
+# Local/private backend configuration
+db.php
+.env
+.env.*
+
+# Local databases and backups
+*.sql
+*.sqlite
+*.db
+*.bak
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
